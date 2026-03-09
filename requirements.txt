@@ -1,0 +1,8 @@
+streamlit
+prefect
+google-genai
+pydantic
+numpy
+pandas
+scipy
+python-dotenv
